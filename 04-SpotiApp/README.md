@@ -1,4 +1,5 @@
 # SpotiApp
+![spotiapp](https://github.com/Victor96Man/AngularProjects/blob/master/04-SpotiApp/Documentos/spotiapp.gif)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
