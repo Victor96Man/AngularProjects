@@ -1,6 +1,8 @@
 {
   "name": "deseos",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "bc5f2ba6"
 }
